@@ -8,9 +8,9 @@
 //  const name ="Merve"
 
 //For in
-// for(let prop in person){
-//     console.log(prop,person[prop]);
-// }
+ for(let prop in person){
+     console.log(prop,person[prop]);
+ }
 //String
 // const string = "string";
 // for(let index in string){
@@ -24,8 +24,6 @@
 
 //WE CAN USE FOR ARRAYS, not objects
 
-const string = "string";
-for(let character of string){
-    console.log(character);
+//string
 
-}
+
