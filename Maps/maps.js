@@ -31,11 +31,19 @@
 
 
 
+
+
 // const cities = new Map();
 
 // cities.set("Ankara",5);
 // cities.set("Istanbul",15);
 // cities.set("Izmir",4);
+
+//foreach
+// cities.forEach(function(value,key){
+//     console.log(key,value);
+
+// });
 
 // //for of 
 
